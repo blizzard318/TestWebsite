@@ -1,5 +1,5 @@
-# CloudFlare Test
-This is just to test CloudFlare stuff.
+# This is me compiling a list of CI/CD devops hosting sites
+This is just to test stuff.
 
 GitHub Link: https://blizzard318.github.io/CloudFlareTest/
 
